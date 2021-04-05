@@ -1,0 +1,42 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-color: rgb(235, 98, 98);
+}
+
+h1{
+    font-size: 50px;
+}
+ 
+h4{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
